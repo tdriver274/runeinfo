@@ -1,3 +1,0 @@
-# runeinfo
-Discord
-This sucks
